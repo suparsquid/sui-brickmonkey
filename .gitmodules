@@ -1,0 +1,6 @@
+[submodule "bera/lib/forge-std"]
+	path = bera/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "bera/lib/openzeppelin-contracts"]
+	path = bera/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts

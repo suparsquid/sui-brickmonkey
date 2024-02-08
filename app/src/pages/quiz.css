@@ -1,0 +1,18 @@
+.question {
+  font-family: inter, sans-serif;
+  font-weight: 500;
+}
+
+.options {
+  font-family: inter, sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  .question {
+    width: 100%;
+  }
+
+  .options {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,19 @@
+.text-custom-color {
+    color: #9D1F19;
+    font-family: "Inter", sans-serif;
+  }
+
+.body-text {
+    font-family: "Inter", sans-serif;
+}
+
+.text-xs {
+    padding: 2px;
+}
+
+@media screen and (max-width: 768px) {
+    .playcards {
+        width: 90%; /* This will make the width 90% of the screen width */
+        padding: 0 5%; /* This will add a 5% padding on the left and right */
+    }
+}
